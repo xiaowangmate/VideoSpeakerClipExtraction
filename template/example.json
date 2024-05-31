@@ -1,0 +1,18 @@
+{
+  "original_video_id": "v00001.mp4",
+  "video_title": "title content",
+  "source_url": "https://example.com/video/path",
+  "clip_id": "c00001.mp4",
+  "filename": " v00001_c00001.mp4",
+  "start_time": "00:01:23.450",
+  "end_time": "00:02:10.590",
+  "duration_seconds": 47.14,
+  "speaking_duration": 40,
+  "transcript": "这是片段的转录文本（如果可用）",
+  "speaker_upper_body_visible": true,
+  "topic_keywords": ["关键词1", "关键词2", "关键词3"],
+  "speaker_full_body_visible": "half",
+  "category": "新闻播报",
+  "speaker_name": "诸葛亮",
+  "language": ""
+}
