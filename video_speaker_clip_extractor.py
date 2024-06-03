@@ -23,7 +23,7 @@ bd = FullBodyDetector()
 
 
 class VideoSpeakerClipExtractor:
-    def __init__(self):
+    def __init__(self, output_base_dir):
         self.headers = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60",
             "Referer": "https://mattw.io/"
@@ -47,6 +47,7 @@ class VideoSpeakerClipExtractor:
             "language": None
         }
         self.processed_video_list = self.video_filter()
+        self.output_base_dir = output_base_dir
 
     def get_video_detail(self, video_id):
         request_url = f"https://www.googleapis.com/youtube/v3/videos?key=AIzaSyASTMQck-jttF8qy9rtEnt1HyEYw5AmhE8&quotaUser=fBWEAGx05v5OAXp569fBfk7bm7k8AQrB6crdJBmO&part=snippet%2Cstatistics%2CrecordingDetails%2Cstatus%2CliveStreamingDetails%2Clocalizations%2CcontentDetails%2CtopicDetails&id={video_id}&_=1697074338983"
@@ -111,7 +112,7 @@ class VideoSpeakerClipExtractor:
                 print(
                     f"video_id: {video_id}, video_title: {video_title}， video_url： {video_url}， topic_keywords: {topic_keywords}, language: {language}")
 
-                folder_path = f"output/{video_id.replace('-', '_')}"
+                folder_path = f"{self.output_base_dir}/{video_id.replace('-', '_')}"
                 try:
                     video_download_path = self.download_video(video_id, folder_path)
 
@@ -161,7 +162,7 @@ class VideoSpeakerClipExtractor:
         print(
             f"video_id: {video_id}, video_title: {video_title}， video_url： {video_url}， topic_keywords: {topic_keywords}, language: {language}")
 
-        folder_path = f"output/{video_id.replace('-', '_')}"
+        folder_path = f"{self.output_base_dir}/{video_id.replace('-', '_')}"
         os.makedirs(folder_path, exist_ok=True)
 
         sd.detect_and_load_speaker_face(video_download_path)
@@ -335,5 +336,5 @@ class VideoSpeakerClipExtractor:
 
 
 if __name__ == "__main__":
-    extractor = VideoSpeakerClipExtractor()
+    extractor = VideoSpeakerClipExtractor("./output")
     extractor.gen_video_data_by_keyword("Stand-up comedy")
