@@ -63,11 +63,12 @@ class SpeakerDetector:
         is_contained = False
         for (top_right_y, top_right_x, left_bottom_y, left_bottom_x) in face_locations:
             face = img[top_right_y - 50:left_bottom_y + 50, left_bottom_x - 50:top_right_x + 50]
-            face = cv2.cvtColor(face, cv2.COLOR_BGR2RGB)
-            face_encoding = face_recognition.face_encodings(face)
-            if face_encoding:
-                results = face_recognition.compare_faces([self.speaker_face], face_encoding[0])
-                is_contained = results[0]
+            if len(face) > 0:
+                face = cv2.cvtColor(face, cv2.COLOR_BGR2RGB)
+                face_encoding = face_recognition.face_encodings(face)
+                if face_encoding:
+                    results = face_recognition.compare_faces([self.speaker_face], face_encoding[0])
+                    is_contained = results[0]
         return is_contained
 
 
@@ -85,4 +86,3 @@ if __name__ == '__main__':
         print("不包含目标人物")
 
     # sd.detect_and_load_speaker_face(f"{base_path}/220788303-1-208.mp4")
-

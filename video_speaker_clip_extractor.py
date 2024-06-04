@@ -231,7 +231,8 @@ class VideoSpeakerClipExtractor:
                             logging.warning(f"Speaker in frame.")
                             clip_name = f'{self.metadata["original_video_id"].replace("-", "_")}_{clip_index}.mp4'
                             clip_path = f"{output_dir}/{clip_name}"
-                            subclip.audio.write_audiofile(clip_path.replace(".mp4", ".mp3"))
+                            clip_audio_path = clip_path.replace(".mp4", ".mp3")
+                            subclip.audio.write_audiofile(clip_audio_path)
                             subclip.write_videofile(clip_path)
                             logging.warning(f"Clip extraction from video: {clip_path}")
                             self.metadata["clip_id"] = clip_index
@@ -240,7 +241,7 @@ class VideoSpeakerClipExtractor:
                             self.metadata["end_time"] = end_time
                             self.metadata["duration_seconds"] = VideoFileClip(clip_path).duration
                             self.metadata["speaking_duration"] = self.detect_speaking_duration(clip_path)
-                            self.metadata["transcript"] = asr.speech_recognition(clip_path)
+                            self.metadata["transcript"] = asr.speech_recognition(clip_audio_path)
 
                             if full_body_count == 0 and half_body_count > 0:
                                 self.metadata["speaker_full_body_visible"] = "half"
@@ -265,7 +266,8 @@ class VideoSpeakerClipExtractor:
                     logging.warning(f"Speaker in frame.")
                     clip_name = f'{self.metadata["original_video_id"].replace("-", "_")}_{clip_index}.mp4'
                     clip_path = f"{output_dir}/{clip_name}"
-                    subclip.audio.write_audiofile(clip_path)
+                    clip_audio_path = clip_path.replace(".mp4", ".mp3")
+                    subclip.audio.write_audiofile(clip_audio_path)
                     subclip.write_videofile(clip_path)
                     logging.warning(f"Clip extraction from video: {clip_path}")
                     self.metadata["clip_id"] = clip_index
@@ -274,7 +276,7 @@ class VideoSpeakerClipExtractor:
                     self.metadata["end_time"] = end_time
                     self.metadata["duration_seconds"] = VideoFileClip(clip_path).duration
                     self.metadata["speaking_duration"] = self.detect_speaking_duration(clip_path)
-                    self.metadata["transcript"] = asr.speech_recognition(clip_path)
+                    self.metadata["transcript"] = asr.speech_recognition(clip_audio_path)
                     self.write_clip_metadata(clip_path)
                     clip_index += 1
                     break
