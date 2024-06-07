@@ -130,14 +130,61 @@ class VideoSpeakerClipExtractor:
             else:
                 logging.warning(f"Video: {video_id} already processed.")
 
+    def gen_video_data_by_video_url(self, video_url):
+        video_id = video_url.replace("https://www.youtube.com/watch?v=", "")
+        if video_id not in self.processed_video_list:
+            request_url = f"https://www.googleapis.com/youtube/v3/videos?key=AIzaSyASTMQck-jttF8qy9rtEnt1HyEYw5AmhE8&quotaUser=fBWEAGx05v5OAXp569fBfk7bm7k8AQrB6crdJBmO&part=snippet%2Cstatistics%2CrecordingDetails%2Cstatus%2CliveStreamingDetails%2Clocalizations%2CcontentDetails%2CtopicDetails&id={video_id}&_=1697074338983"
+            response = requests.get(request_url, headers=self.headers).json()
+            video_title = response["items"][0]["snippet"]["title"]
+            try:
+                description = response["items"][0]["snippet"]["description"]
+            except:
+                description = ""
+            try:
+                topic_keywords = response["items"][0]["snippet"]["tags"]
+            except:
+                topic_keywords = []
+            try:
+                language = response["items"][0]["snippet"]["defaultLanguage"]
+            except:
+                language = None
+
+            self.metadata["original_video_id"] = video_id
+            self.metadata["video_title"] = video_title
+            self.metadata["source_url"] = video_url
+            self.metadata["topic_keywords"] = topic_keywords
+
+            speaker_name = self.get_speaker_name(video_title + description)
+            if speaker_name != "None":
+                self.metadata["category"] = speaker_name
+                self.metadata["speaker_name"] = speaker_name
+
+            self.metadata["language"] = language
+
+            print(
+                f"video_id: {video_id}, video_title: {video_title}， video_url： {video_url}， topic_keywords: {topic_keywords}, language: {language}")
+
+            folder_path = f"{self.output_base_dir}/{video_id.replace('-', '_')}"
+            # try:
+            video_download_path = self.download_video(video_id, folder_path)
+
+            sd.detect_and_load_speaker_face(video_download_path)
+            self.video_clipping(
+                video_download_path,
+                folder_path,
+                min_duration=5,
+                faceRecSpeedMult=10,
+                cutoff=7
+            )
+            # except Exception as e:
+            #     logging.warning(f"Video: {video_id} download error: {str(e)}.")
+            self.init_metadata()
+
     def process_target_video(self, video_download_path, video_id, keyword):
         video_url = "https://www.youtube.com/watch?v=" + video_id
         request_url = f"https://www.googleapis.com/youtube/v3/videos?key=AIzaSyASTMQck-jttF8qy9rtEnt1HyEYw5AmhE8&quotaUser=fBWEAGx05v5OAXp569fBfk7bm7k8AQrB6crdJBmO&part=snippet%2Cstatistics%2CrecordingDetails%2Cstatus%2CliveStreamingDetails%2Clocalizations%2CcontentDetails%2CtopicDetails&id={video_id}&_=1697074338983"
         response = requests.get(request_url, headers=self.headers).json()
-        try:
-            video_title = response["items"][0]["snippet"]["title"]
-        except:
-            video_title = response["items"][0]["snippet"]["title"]
+        video_title = response["items"][0]["snippet"]["title"]
         try:
             topic_keywords = response["items"][0]["snippet"]["tags"]
         except:
