@@ -68,7 +68,8 @@ class VideoSpeakerClipExtractor:
 
     def download_video(self, video_id, folder_path):
         url = "https://www.youtube.com/watch?v=" + video_id
-        youtube = YouTube(url)
+        # youtube = YouTube(url)
+        youtube = YouTube(url, use_oauth=True, allow_oauth_cache=True)
         video_streams = youtube.streams
         video = video_streams.get_highest_resolution()
         video_download_name = f"{video_id.replace('-', '_')}.mp4"
