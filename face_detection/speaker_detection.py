@@ -64,11 +64,14 @@ class SpeakerDetector:
         for (top_right_y, top_right_x, left_bottom_y, left_bottom_x) in face_locations:
             face = img[top_right_y - 50:left_bottom_y + 50, left_bottom_x - 50:top_right_x + 50]
             if face is not None and len(face) > 0:
-                face = cv2.cvtColor(face, cv2.COLOR_BGR2RGB)
-                face_encoding = face_recognition.face_encodings(face)
-                if face_encoding:
-                    results = face_recognition.compare_faces([self.speaker_face], face_encoding[0])
-                    is_contained = results[0]
+                try:
+                    face = cv2.cvtColor(face, cv2.COLOR_BGR2RGB)
+                    face_encoding = face_recognition.face_encodings(face)
+                    if face_encoding:
+                        results = face_recognition.compare_faces([self.speaker_face], face_encoding[0])
+                        is_contained = results[0]
+                except Exception as e:
+                    print(f"find speaker in image error: {str(e)}")
         return is_contained
 
 
