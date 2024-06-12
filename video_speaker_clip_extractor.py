@@ -14,7 +14,7 @@ from pydub.silence import detect_nonsilent
 from video_asr.video_speech_recognition import VideoASR
 from face_detection.speaker_detection import SpeakerDetector
 from body_detection.full_body_detection import FullBodyDetector
-from llm.openai_api import openai_call
+from llm.openai_api import GPT
 from llm.speaker_name_recognition_prompt import speaker_name_recognition_prompt
 
 asr = VideoASR()
@@ -63,7 +63,7 @@ class VideoSpeakerClipExtractor:
         return topic_keywords, language
 
     def get_speaker_name(self, content):
-        speaker_name = openai_call(speaker_name_recognition_prompt.format(content))
+        speaker_name = gpt.openai_call(speaker_name_recognition_prompt.format(content))
         return speaker_name
 
     def download_video(self, video_id, folder_path):
@@ -386,5 +386,15 @@ class VideoSpeakerClipExtractor:
 
 
 if __name__ == "__main__":
-    extractor = VideoSpeakerClipExtractor("./output")
-    extractor.gen_video_data_by_keyword("Stand-up comedy")
+    with open("config/config.json", mode="r", encoding="utf-8") as c:
+        config = json.loads(c.read())
+        output_folder_path = config["output_path"]["output_folder_path"]
+        search_words_path = config["input_path"]["search_words_path"]
+        gpt = GPT(config["api_key"]["gpt"])
+
+    extractor = VideoSpeakerClipExtractor(output_folder_path)
+
+    with open(search_words_path, mode="r", encoding="utf-8") as s:
+        search_words = json.loads(s.read()).split("\n")
+        for search_word in search_words:
+            extractor.gen_video_data_by_keyword(search_word)

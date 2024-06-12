@@ -1,0 +1,11 @@
+{
+  "api_key": {
+    "gpt": "xgjxaKzPQzQEEQkIycX6koWRofQ1M2Oc"
+  },
+  "output_path": {
+    "output_folder_path": "./output"
+  },
+  "input_path": {
+    "search_words_path": "./input/search_words.txt"
+  }
+}
