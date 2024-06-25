@@ -7,5 +7,6 @@
   },
   "input_path": {
     "search_words_path": "./input/search_words.txt"
-  }
+  },
+  "resolution": "1080"
 }

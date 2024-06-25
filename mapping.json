@@ -1,0 +1,4169 @@
+[{
+	"name": "RD_Radio1",
+	"id": "CPCoMyuBRM0",
+	"intervals": [
+		["00:20", "01:35"]
+	],
+	"crops": [
+		["466", "535", "0", "535"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "RD_Radio2",
+	"id": "uBWJJvynXpA",
+	"intervals": [
+		["00:22", "01:45"]
+	],
+	"crops": [
+		["473", "468", "0", "468"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "RD_Radio3",
+	"id": "y-JQqnqmEgg",
+	"intervals": [
+		["00:25", "02:00"]
+	],
+	"crops": [
+		["230", "703", "0", "703"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "RD_Radio4",
+	"id": "Am-7-dYL0v4",
+	"intervals": [
+		["00:15", "00:55"]
+	],
+	"crops": [
+		["314", "623", "0", "623"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "RD_Radio5",
+	"id": "uajL_RCNtK0",
+	"intervals": [
+		["00:15", "01:10"]
+	],
+	"crops": [
+		["355", "549", "0", "549"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "RD_Radio6",
+	"id": "Va0qWOj25zg",
+	"intervals": [
+		["00:25", "02:00"]
+	],
+	"crops": [null],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "RD_Radio7",
+	"id": "B_3izB77AEo",
+	"intervals": [
+		["00:35", "02:05"]
+	],
+	"crops": [
+		["338", "490", "0", "490"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "RD_Radio8",
+	"id": "uJ4Br-y9Hqg",
+	"intervals": [
+		["00:20", "01:45"]
+	],
+	"crops": [
+		["418", "446", "17", "446"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "RD_Radio9",
+	"id": "2nqyIG86DgM",
+	"intervals": [
+		["00:30", "01:30"]
+	],
+	"crops": [
+		["335", "425", "0", "425"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "RD_Radio10",
+	"id": "ZoRK17RCZHY",
+	"intervals": [
+		["00:30", "02:50"]
+	],
+	"crops": [
+		["483", "390", "0", "390"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "RD_Radio11",
+	"id": "XtySvTwIOfw",
+	"intervals": [
+		["00:30", "01:00"],
+		["01:30", "02:30"]
+	],
+	"crops": [
+		["412", "599", "0", "599"],
+		["557", "478", "0", "478"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "RD_Radio12",
+	"id": "_o9fzcCk5C8",
+	"intervals": [
+		["00:25", "01:00"]
+	],
+	"crops": [
+		["299", "472", "0", "472"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "RD_Radio13",
+	"id": "Vn4pG8JoYws",
+	"intervals": [
+		["00:00", "00:35"]
+	],
+	"crops": [
+		["500", "368", "0", "368"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "RD_Radio14",
+	"id": "sEFJe9g31Vo",
+	"intervals": [
+		["00:25", "01:15"]
+	],
+	"crops": [
+		["390", "356", "12", "356"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "RD_Radio15",
+	"id": "0EHNIWy8l3w",
+	"intervals": [
+		["00:35", "00:45"]
+	],
+	"crops": [null],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "RD_Radio16",
+	"id": "cJQzsALjBtE",
+	"intervals": [
+		["00:17", "01:52"]
+	],
+	"crops": [
+		["614", "458", "0", "458"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "RD_Radio17",
+	"id": "ngZTHpmdbE8",
+	"intervals": [
+		["00:28", "01:55"]
+	],
+	"crops": [
+		["236", "562", "0", "562"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "RD_Radio18",
+	"id": "SwPBAY5u_-4",
+	"intervals": [
+		["00:37", "01:50"]
+	],
+	"crops": [
+		["417", "511", "0", "511"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "RD_Radio19",
+	"id": "Hd7LuU-vx4s",
+	"intervals": [
+		["00:30", "01:45"]
+	],
+	"crops": [
+		["452", "544", "0", "544"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "RD_Radio20",
+	"id": "8nK7YWIvCZ4",
+	"intervals": [
+		["00:55", "01:06"]
+	],
+	"crops": [
+		["578", "423", "0", "423"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "RD_Radio21",
+	"id": "QsW4CypbKIY",
+	"intervals": [
+		["00:20", "01:08"]
+	],
+	"crops": [
+		["493", "425", "0", "425"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "RD_Radio22",
+	"id": "jFA3tK5c0iU",
+	"intervals": [
+		["00:25", "00:55"]
+	],
+	"crops": [
+		["343", "504", "0", "504"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "RD_Radio23",
+	"id": "xZXi0LTQFuY",
+	"intervals": [
+		["00:31", "01:35"]
+	],
+	"crops": [
+		["554", "383", "0", "383"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "RD_Radio24",
+	"id": "cU0JPT3n9B4",
+	"intervals": null,
+	"crops": null,
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "RD_Radio29",
+	"id": "HStfbC4L-0I",
+	"intervals": [
+		["00:05", "01:35"]
+	],
+	"crops": [
+		["775", "507", "54", "507"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "RD_Radio30",
+	"id": "h_BsSfXtON0",
+	"intervals": [
+		["00:05", "02:00"]
+	],
+	"crops": [
+		["600", "765", "0", "765"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "RD_Radio31",
+	"id": "85kKvpf7MUM",
+	"intervals": [
+		["00:05", "01:00"]
+	],
+	"crops": [
+		["189", "662", "0", "662"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "RD_Radio32",
+	"id": "qgVRkJWlGmE",
+	"intervals": [
+		["00:05", "01:05"]
+	],
+	"crops": [
+		["806", "655", "0", "655"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "RD_Radio34",
+	"id": "mhCYrKWOnEQ",
+	"intervals": [
+		["00:02", "00:30"],
+		["00:40", "00:50"],
+		["01:00", "01:20"],
+		["01:27", "01:40"],
+		["01:50", "02:10"],
+		["02:20", "02:40"],
+		["02:50", "03:10"],
+		["03:20", "03:30"],
+		["03:40", "04:15"],
+		["04:20", "04:50"]
+	],
+	"crops": [
+		["527", "650", "0", "650"],
+		["682", "514", "31", "514"],
+		["629", "539", "0", "539"],
+		["766", "503", "19", "503"],
+		["735", "619", "0", "619"],
+		["728", "659", "0", "659"],
+		["668", "722", "0", "722"],
+		["674", "684", "49", "684"],
+		["640", "834", "0", "834"],
+		["791", "500", "29", "500"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "RD_Radio35",
+	"id": "AhXfDeElb8o",
+	"intervals": [
+		["00:05", "01:30"]
+	],
+	"crops": [
+		["753", "636", "17", "636"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "RD_Radio37",
+	"id": "OxLfdP-YPxE",
+	"intervals": [
+		["00:05", "02:10"]
+	],
+	"crops": [
+		["799", "555", "16", "555"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "RD_Radio38",
+	"id": "fNmAtNJfkKw",
+	"intervals": [
+		["00:05", "02:35"]
+	],
+	"crops": [
+		["655", "681", "0", "681"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "RD_Radio40",
+	"id": "0Xe890iP4ZM",
+	"intervals": [
+		["00:05", "00:55"]
+	],
+	"crops": [
+		["679", "596", "0", "596"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "RD_Radio41",
+	"id": "R4UsmhNp7Io",
+	"intervals": [
+		["00:05", "01:30"]
+	],
+	"crops": [
+		["625", "636", "0", "636"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "RD_Radio42",
+	"id": "cVbe6KrbaCU",
+	"intervals": [
+		["00:05", "01:15"]
+	],
+	"crops": [
+		["759", "511", "3", "511"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "RD_Radio43",
+	"id": "HXEuewh6MDo",
+	"intervals": [
+		["00:05", "01:05"]
+	],
+	"crops": [
+		["576", "758", "0", "758"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "RD_Radio47",
+	"id": "ga65OU-8iwA",
+	"intervals": [
+		["00:05", "01:05"]
+	],
+	"crops": [
+		["945", "494", "10", "494"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "RD_Radio50",
+	"id": "9jMp-E-N5PI",
+	"intervals": [
+		["00:05", "01:35"]
+	],
+	"crops": [
+		["611", "777", "0", "777"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "RD_Radio53",
+	"id": "Q8BEYIR5ol4",
+	"intervals": [
+		["00:05", "01:50"]
+	],
+	"crops": [
+		["770", "565", "0", "565"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "RD_Radio54",
+	"id": "eZb2_WBz_Mw",
+	"intervals": [
+		["00:02", "00:25"]
+	],
+	"crops": [
+		["699", "500", "0", "500"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "RD_Radio56",
+	"id": "_NIUdiGXvT8",
+	"intervals": [
+		["00:02", "01:20"]
+	],
+	"crops": [
+		["1213", "1455", "0", "1455"]
+	],
+	"output_dir": "output",
+	"resolution": "2160"
+}, {
+	"name": "RD_Radio59",
+	"id": "-93rQjLe3Sw",
+	"intervals": [
+		["00:02", "01:20"]
+	],
+	"crops": [
+		["684", "549", "0", "549"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "RD_Radio25",
+	"id": "n21yATRRHks",
+	"intervals": [
+		["00:25", "01:50"]
+	],
+	"crops": [
+		["429", "497", "0", "497"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "RD_Radio26",
+	"id": "LXZk-lnAPxI",
+	"intervals": [
+		["00:43", "01:25"]
+	],
+	"crops": [
+		["458", "451", "3", "451"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "RD_Radio27",
+	"id": "uC-aBbDggR8",
+	"intervals": [
+		["00:30", "01:25"]
+	],
+	"crops": [
+		["561", "413", "0", "413"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "RD_Radio28",
+	"id": "VrFpdKk1UJc",
+	"intervals": [
+		["00:05", "01:35"]
+	],
+	"crops": [
+		["372", "530", "0", "530"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "RD_Radio33",
+	"id": "OkEkbSvPzQ8",
+	"intervals": [
+		["00:05", "01:35"]
+	],
+	"crops": [
+		["474", "377", "3", "377"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "RD_Radio36",
+	"id": "R92UJehIBOw",
+	"intervals": [
+		["00:05", "01:40"]
+	],
+	"crops": [
+		["537", "366", "7", "366"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "RD_Radio39",
+	"id": "Xk3ahBAIiGg",
+	"intervals": [
+		["00:05", "01:05"]
+	],
+	"crops": [
+		["464", "374", "0", "374"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "RD_Radio44",
+	"id": "6CmFSnjXdwA",
+	"intervals": [
+		["00:05", "00:50"]
+	],
+	"crops": [
+		["488", "385", "0", "385"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "RD_Radio45",
+	"id": "Uqw1A_Wanng",
+	"intervals": [
+		["00:05", "01:10"]
+	],
+	"crops": [
+		["293", "592", "0", "592"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "RD_Radio46",
+	"id": "Y9sTRCrd2Qk",
+	"intervals": [
+		["00:05", "01:20"]
+	],
+	"crops": [
+		["329", "503", "0", "503"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "RD_Radio48",
+	"id": "3tA2XhROFrc",
+	"intervals": [
+		["00:05", "01:30"]
+	],
+	"crops": [
+		["383", "430", "0", "430"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "RD_Radio49",
+	"id": "V2r8gZtVS6Y",
+	"intervals": [
+		["00:05", "01:05"]
+	],
+	"crops": [
+		["368", "447", "0", "447"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "RD_Radio51",
+	"id": "KvbYZ0Fdw7I",
+	"intervals": [
+		["00:05", "02:15"]
+	],
+	"crops": [
+		["496", "372", "12", "372"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "RD_Radio52",
+	"id": "n4-oBDXwSuA",
+	"intervals": [
+		["00:05", "01:55"]
+	],
+	"crops": [
+		["424", "423", "0", "423"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "RD_Radio57",
+	"id": "FoMATsUVJyM",
+	"intervals": [
+		["00:02", "02:05"]
+	],
+	"crops": [
+		["577", "401", "35", "401"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_锘緾arolynMaloney2",
+	"id": "RApGxN-O9Qc",
+	"intervals": null,
+	"crops": null,
+	"output_dir": "output",
+	"resolution": null
+}, {
+	"name": "WDA_CarolynMaloney1",
+	"id": "1Xn9v3fmLPs",
+	"intervals": [
+		["00:05", "05:40"]
+	],
+	"crops": [
+		["510", "864", "0", "864"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_BrendaLawrence",
+	"id": "u1veT_6y9lo",
+	"intervals": [
+		["00:05", "03:50"]
+	],
+	"crops": [
+		["578", "741", "0", "741"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_DonaldMcEachin",
+	"id": "0qxds4oTVec",
+	"intervals": [
+		["00:05", "05:10"]
+	],
+	"crops": [
+		["517", "757", "0", "757"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_SeanPatrickMaloney",
+	"id": "jI0q4p4IEow",
+	"intervals": [
+		["00:05", "04:25"]
+	],
+	"crops": [
+		["626", "880", "0", "880"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_KarenBass",
+	"id": "rB4HJDtUI04",
+	"intervals": [
+		["00:05", "04:50"]
+	],
+	"crops": [
+		["575", "840", "0", "840"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_FrankPallone0",
+	"id": "CPSbvarBtO4",
+	"intervals": [
+		["00:05", "03:50"]
+	],
+	"crops": [
+		["659", "770", "27", "770"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_FrankPallone1",
+	"id": "4PqP437VZPg",
+	"intervals": [
+		["00:05", "04:25"]
+	],
+	"crops": [
+		["727", "591", "0", "591"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_NancyPelosi0",
+	"id": "Dtd5jhCLoAk",
+	"intervals": [
+		["00:05", "06:55"]
+	],
+	"crops": [
+		["517", "766", "0", "766"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_NancyPelosi1",
+	"id": "Nsq78_aY86c",
+	"intervals": [
+		["00:05", "01:00"]
+	],
+	"crops": [
+		["615", "733", "19", "733"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_NancyPelosi3",
+	"id": "VKGroEJYCHU",
+	"intervals": [
+		["00:05", "00:50"]
+	],
+	"crops": [
+		["320", "983", "19", "983"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_DebHaaland",
+	"id": "IIqCIwtFXSc",
+	"intervals": [
+		["00:05", "04:00"]
+	],
+	"crops": [
+		["577", "771", "0", "771"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_WhipJimClyburn",
+	"id": "gh3YqnvNdio",
+	"intervals": [
+		["00:05", "04:40"]
+	],
+	"crops": [
+		["583", "791", "0", "791"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_NitaLowey",
+	"id": "k4x7gycZURE",
+	"intervals": [
+		["00:05", "04:00"]
+	],
+	"crops": [
+		["622", "726", "0", "726"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_RaulRuiz",
+	"id": "w3R3-9TfD6A",
+	"intervals": [
+		["00:05", "03:55"]
+	],
+	"crops": [
+		["412", "519", "0", "519"]
+	],
+	"output_dir": "output",
+	"resolution": "700"
+}, {
+	"name": "WDA_JohnYarmuth1",
+	"id": "f5ySnrzr-S4",
+	"intervals": [
+		["00:05", "03:40"]
+	],
+	"crops": [
+		["584", "736", "0", "736"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_JohnYarmuth",
+	"id": "lz1k4W6ViEs",
+	"intervals": [
+		["00:05", "04:00"]
+	],
+	"crops": [
+		["436", "388", "21", "388"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_AndyLevin",
+	"id": "aMl1jNTqBE8",
+	"intervals": [
+		["00:05", "03:20"]
+	],
+	"crops": [
+		["552", "818", "0", "818"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_BradSchneider",
+	"id": "fBkymRblwSE",
+	"intervals": [
+		["00:05", "04:30"]
+	],
+	"crops": [
+		["598", "820", "0", "820"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_DebbieDingell0",
+	"id": "x0XKjj50oKE",
+	"intervals": [
+		["00:05", "05:15"]
+	],
+	"crops": [
+		["488", "787", "0", "787"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_DebbieDingell1",
+	"id": "822zrmx-aKk",
+	"intervals": [
+		["00:05", "04:55"]
+	],
+	"crops": [
+		["370", "517", "0", "517"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_JimmyGomez",
+	"id": "1_HfHtBlQKs",
+	"intervals": [
+		["00:05", "03:10"]
+	],
+	"crops": [
+		["442", "426", "97", "426"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_KimSchrier",
+	"id": "YLN321kYoFM",
+	"intervals": [
+		["00:05", "04:40"]
+	],
+	"crops": [
+		["595", "807", "0", "807"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_SeanCasten",
+	"id": "wd9YIEqYwRY",
+	"intervals": [
+		["00:05", "04:10"]
+	],
+	"crops": [
+		["664", "654", "0", "654"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_VeronicaEscobar0",
+	"id": "sKVOYKQCE-A",
+	"intervals": [
+		["00:05", "03:00"]
+	],
+	"crops": [
+		["341", "611", "0", "611"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_VeronicaEscobar1",
+	"id": "0aqFj-9Mfx0",
+	"intervals": [
+		["00:12", "01:50"]
+	],
+	"crops": [
+		["539", "772", "3", "772"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_EliotEngel",
+	"id": "O15C1YoMW9g",
+	"intervals": [
+		["00:05", "04:40"]
+	],
+	"crops": [
+		["382", "585", "1", "585"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_LisaBluntRochester",
+	"id": "gAIVQk1LdHc",
+	"intervals": [
+		["00:05", "03:05"]
+	],
+	"crops": [
+		["614", "772", "0", "772"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_JoaquinCastro",
+	"id": "0G8MxYOeAxc",
+	"intervals": [
+		["00:05", "03:30"]
+	],
+	"crops": [
+		["344", "559", "0", "559"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_DebbieWassermanSchultz",
+	"id": "xhxMW3HBslU",
+	"intervals": [
+		["00:05", "05:10"]
+	],
+	"crops": [
+		["459", "379", "15", "379"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_DeanPhillips",
+	"id": "X7pHGRwM-UA",
+	"intervals": [
+		["00:05", "03:10"]
+	],
+	"crops": [null],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_JimMcGovern1",
+	"id": "aNSLPr4CPBE",
+	"intervals": [
+		["00:05", "05:00"]
+	],
+	"crops": [null],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_JimMcGovern",
+	"id": "5B81KGjaCRY",
+	"intervals": [
+		["00:05", "02:10"]
+	],
+	"crops": [null],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_HaleyStevens",
+	"id": "OSncXqsfl74",
+	"intervals": [
+		["00:05", "03:25"]
+	],
+	"crops": [
+		["397", "570", "3", "570"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_ZoeLofgren",
+	"id": "43Z0If3tfr4",
+	"intervals": [
+		["00:05", "03:10"]
+	],
+	"crops": [
+		["337", "591", "0", "591"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_EmanuelCleaver",
+	"id": "AYeU-mHJWF0",
+	"intervals": [
+		["00:05", "04:45"]
+	],
+	"crops": [
+		["395", "472", "0", "472"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_AnnieKuster",
+	"id": "zpw2YOo8Eso",
+	"intervals": [
+		["00:05", "03:20"]
+	],
+	"crops": [
+		["414", "508", "14", "508"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_KathyCastor1",
+	"id": "XdCT8Hx2QzU",
+	"intervals": [
+		["00:05", "04:05"]
+	],
+	"crops": [
+		["358", "503", "0", "503"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_KathyCastor",
+	"id": "tGqjTD7xM34",
+	"intervals": [
+		["00:05", "01:35"]
+	],
+	"crops": [
+		["340", "623", "0", "623"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_ColinAllred",
+	"id": "rbIhW8_X2Jw",
+	"intervals": [
+		["00:05", "03:15"]
+	],
+	"crops": [
+		["357", "523", "0", "523"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_LucyMcBath",
+	"id": "ENGB9suXODs",
+	"intervals": [
+		["00:05", "02:45"]
+	],
+	"crops": [
+		["559", "728", "0", "728"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_BarbaraLee0",
+	"id": "0unUBVroMfw",
+	"intervals": [
+		["00:05", "04:25"]
+	],
+	"crops": [
+		["427", "495", "30", "495"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_BarbaraLee1",
+	"id": "4LO4cC86OI0",
+	"intervals": [
+		["00:04", "03:12"]
+	],
+	"crops": [
+		["607", "653", "41", "653"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_TedLieu",
+	"id": "eFAbqAtH9Gw",
+	"intervals": [
+		["00:05", "04:40"]
+	],
+	"crops": [
+		["515", "773", "0", "773"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_ScottPeters0",
+	"id": "iXsMmEEnasg",
+	"intervals": [
+		["00:08", "04:48"]
+	],
+	"crops": [
+		["377", "518", "0", "518"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_ScottPeters1",
+	"id": "3XVbMLfpN-Y",
+	"intervals": [
+		["00:12", "02:50"]
+	],
+	"crops": [
+		["539", "809", "0", "809"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_GerryConnolly",
+	"id": "XVJUtfPdQDY",
+	"intervals": [
+		["00:05", "04:35"]
+	],
+	"crops": [
+		["670", "574", "0", "574"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_MikeDoyle",
+	"id": "E8SKVFty81E",
+	"intervals": [
+		["00:05", "05:55"]
+	],
+	"crops": [
+		["672", "602", "15", "602"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_DianaDeGette0",
+	"id": "jCYLQTPEro8",
+	"intervals": [
+		["00:05", "04:05"]
+	],
+	"crops": [
+		["367", "517", "0", "517"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_DianaDeGette1",
+	"id": "2J7WN0Wz-FQ",
+	"intervals": [
+		["00:02", "01:30"]
+	],
+	"crops": [
+		["779", "652", "15", "652"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_NydiaVelzquez",
+	"id": "iFmSJ-0JMUc",
+	"intervals": [
+		["00:05", "03:45"]
+	],
+	"crops": [
+		["664", "680", "0", "680"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_LloydDoggett0",
+	"id": "9pQGR_v5joI",
+	"intervals": [
+		["00:05", "05:00"]
+	],
+	"crops": [
+		["379", "489", "0", "489"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_LloydDoggett1",
+	"id": "u61yBpNbSLE",
+	"intervals": [
+		["00:05", "01:35"]
+	],
+	"crops": [
+		["501", "779", "0", "779"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_ElijahCummings",
+	"id": "-3N2xOZ5gDY",
+	"intervals": [
+		["00:05", "04:20"]
+	],
+	"crops": [
+		["575", "773", "0", "773"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_StephanieMurphy",
+	"id": "-pkRt0TcOZU",
+	"intervals": [
+		["00:05", "02:45"]
+	],
+	"crops": [
+		["622", "575", "78", "575"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_DanKildee1",
+	"id": "T2VwRzQxLso",
+	"intervals": [
+		["00:05", "04:15"]
+	],
+	"crops": [
+		["383", "513", "22", "513"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_DanKildee",
+	"id": "FQZCs0pSjNg",
+	"intervals": [
+		["00:10", "01:50"]
+	],
+	"crops": [
+		["199", "240", "24", "240"]
+	],
+	"output_dir": "output",
+	"resolution": "360"
+}, {
+	"name": "WDA_MattCartwright",
+	"id": "Q3V4UzU89cM",
+	"intervals": [
+		["01:10", "04:45"]
+	],
+	"crops": [
+		["455", "481", "0", "481"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_JohnSarbanes0",
+	"id": "_oAEBxbbd7E",
+	"intervals": [
+		["00:05", "04:20"]
+	],
+	"crops": [
+		["430", "485", "0", "485"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_JohnSarbanes1",
+	"id": "0Vx5vLrW1iM",
+	"intervals": [
+		["00:05", "01:20"]
+	],
+	"crops": [
+		["679", "637", "36", "637"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_MarciaFudge",
+	"id": "FcGxbYMYrDk",
+	"intervals": [
+		["00:05", "05:00"]
+	],
+	"crops": [
+		["602", "800", "0", "800"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_RichardNeal0",
+	"id": "ZUzbJQgg4QI",
+	"intervals": [
+		["00:05", "04:15"]
+	],
+	"crops": [
+		["361", "518", "0", "518"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_RichardNeal1",
+	"id": "Mu-2D9Z5HEs",
+	"intervals": [
+		["00:05", "04:40"]
+	],
+	"crops": [
+		["555", "726", "0", "726"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_JohnLewis0",
+	"id": "bq5Xrcc-z94",
+	"intervals": [
+		["00:05", "04:15"]
+	],
+	"crops": [
+		["368", "498", "0", "498"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_JohnLewis1",
+	"id": "u-N0kIKHEZ0",
+	"intervals": [
+		["00:05", "04:55"]
+	],
+	"crops": [
+		["402", "521", "0", "521"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_RobinKelly",
+	"id": "kI3o0LlpbDM",
+	"intervals": [
+		["00:05", "03:00"]
+	],
+	"crops": [
+		["634", "617", "0", "617"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_BillPascrell",
+	"id": "ZbWmiZCTWU8",
+	"intervals": [
+		["00:05", "04:55"]
+	],
+	"crops": [
+		["399", "521", "18", "521"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_PeterDeFazio",
+	"id": "rW_3zPIX2zA",
+	"intervals": [
+		["00:05", "04:30"]
+	],
+	"crops": [
+		["619", "783", "0", "783"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_TerriSewell",
+	"id": "QIYYe9cqZ3k",
+	"intervals": [
+		["00:05", "04:35"]
+	],
+	"crops": [
+		["394", "523", "0", "523"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_TerriSewell0",
+	"id": "-NSK_N_EWSE",
+	"intervals": [
+		["00:05", "01:30"]
+	],
+	"crops": [
+		["588", "767", "0", "767"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_TerriSewell1",
+	"id": "EYwGesDadHk",
+	"intervals": [
+		["00:12", "07:30"]
+	],
+	"crops": [
+		["589", "711", "0", "711"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_MikeThompson0",
+	"id": "2EaLkwmfBG8",
+	"intervals": [
+		["00:05", "03:10"]
+	],
+	"crops": [
+		["378", "491", "0", "491"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_MikeThompson1",
+	"id": "7x0N1YD-UV8",
+	"intervals": [
+		["00:12", "01:25"]
+	],
+	"crops": [
+		["430", "414", "14", "414"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_JackieSpeier",
+	"id": "U73ngM5aQEw",
+	"intervals": [
+		["00:05", "03:10"]
+	],
+	"crops": [
+		["371", "530", "0", "530"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_SuzanDelBene",
+	"id": "Zmd5Ts6lP9E",
+	"intervals": [
+		["00:05", "04:40"]
+	],
+	"crops": [
+		["413", "503", "0", "503"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_MichelleLujanGrisham",
+	"id": "NHC4qLKTyos",
+	"intervals": [
+		["00:05", "04:40"]
+	],
+	"crops": [
+		["667", "676", "37", "676"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_JimHimes",
+	"id": "IoHxz7hJvvo",
+	"intervals": [
+		["00:05", "04:45"]
+	],
+	"crops": [
+		["651", "621", "0", "621"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_CedricRichmond",
+	"id": "h8QIkmSazkQ",
+	"intervals": [
+		["00:05", "04:55"]
+	],
+	"crops": [
+		["584", "780", "0", "780"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_BettyMcCollum",
+	"id": "6PDbHlY1YvQ",
+	"intervals": [
+		["00:05", "04:45"]
+	],
+	"crops": [
+		["525", "799", "0", "799"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_BennieThompson",
+	"id": "RGj2dQK7bUQ",
+	"intervals": [
+		["00:05", "03:40"]
+	],
+	"crops": [
+		["397", "516", "0", "516"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_BennieThompson1",
+	"id": "2koRur4u0Qw",
+	"intervals": [
+		["00:05", "04:20"]
+	],
+	"crops": [
+		["500", "945", "0", "945"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_DavidCicilline",
+	"id": "4VMU-LYf9MI",
+	"intervals": [
+		["00:05", "04:00"]
+	],
+	"crops": [
+		["482", "726", "0", "726"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_BenRayLujn",
+	"id": "tbSRJhiIEaU",
+	"intervals": [
+		["00:10", "04:55"]
+	],
+	"crops": [
+		["533", "698", "0", "698"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_HakeemJeffries",
+	"id": "ZRRinKdVMFc",
+	"intervals": [
+		["00:05", "04:05"]
+	],
+	"crops": [
+		["437", "443", "0", "443"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_BobCasey0",
+	"id": "cvbGQPadCyM",
+	"intervals": [
+		["00:10", "07:15"]
+	],
+	"crops": [
+		["599", "723", "0", "723"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_BobCasey1",
+	"id": "knSHsIR4Q1U",
+	"intervals": [
+		["00:45", "00:55"]
+	],
+	"crops": [
+		["639", "650", "46", "650"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_JeffMerkley0",
+	"id": "erEt1puT3Hs",
+	"intervals": [
+		["00:12", "05:35"]
+	],
+	"crops": [null],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_JeffMerkley1",
+	"id": "zON4QBas3Tw",
+	"intervals": [
+		["00:12", "04:50"]
+	],
+	"crops": [
+		["638", "704", "0", "704"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_RichardBlumenthal",
+	"id": "jsbA88FeNNk",
+	"intervals": [
+		["00:12", "05:25"]
+	],
+	"crops": [
+		["584", "780", "0", "780"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_MarkWarner2",
+	"id": "wDEQrUT8fMM",
+	"intervals": [
+		["04:15", "04:30"]
+	],
+	"crops": [
+		["374", "551", "10", "551"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_MarkWarner1",
+	"id": "QKM5uJCXlgE",
+	"intervals": [
+		["01:10", "01:25"],
+		["02:25", "03:18"]
+	],
+	"crops": [
+		["579", "726", "0", "726"],
+		["567", "743", "0", "743"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_MarkWarner",
+	"id": "iIi8FwQ2WTA",
+	"intervals": [
+		["00:05", "02:10"]
+	],
+	"crops": [
+		["397", "520", "0", "520"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_DebbieStabenow0",
+	"id": "ceZw5ZhIqwE",
+	"intervals": [
+		["00:12", "03:15"]
+	],
+	"crops": [
+		["362", "525", "20", "525"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_DebbieStabenow1",
+	"id": "vTPh88XlxNU",
+	"intervals": [
+		["00:12", "03:40"]
+	],
+	"crops": [
+		["355", "566", "0", "566"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_JackyRosen1",
+	"id": "vM8SdnWua2s",
+	"intervals": [
+		["00:12", "06:55"]
+	],
+	"crops": [
+		["680", "675", "91", "675"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_JackyRosen",
+	"id": "u3VL3clxDnY",
+	"intervals": [
+		["00:10", "03:50"]
+	],
+	"crops": [
+		["346", "556", "0", "556"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_MartinHeinrich",
+	"id": "zEdvNQ-GLwg",
+	"intervals": [
+		["00:12", "03:40"]
+	],
+	"crops": [
+		["586", "857", "0", "857"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_JeanneShaheen0",
+	"id": "FfDzLGEGoZs",
+	"intervals": [
+		["00:12", "04:40"]
+	],
+	"crops": [
+		["572", "748", "0", "748"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_JeanneShaheen1",
+	"id": "vH0fXdOhMrw",
+	"intervals": [
+		["00:12", "04:35"]
+	],
+	"crops": [
+		["415", "454", "39", "454"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_TinaSmith",
+	"id": "CW7bAHh0pSY",
+	"intervals": [
+		["00:12", "03:55"]
+	],
+	"crops": [
+		["320", "586", "0", "586"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_BrianSchatz0",
+	"id": "COSC3jVR67c",
+	"intervals": [
+		["00:15", "00:35"]
+	],
+	"crops": [
+		["585", "795", "0", "795"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_BrianSchatz1",
+	"id": "D8igdaorVA8",
+	"intervals": [
+		["00:20", "02:05"]
+	],
+	"crops": [
+		["395", "480", "45", "480"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_BrianSchatz2",
+	"id": "lf-jTba7SbI",
+	"intervals": [
+		["00:12", "01:30"]
+	],
+	"crops": [
+		["525", "926", "0", "926"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_TomUdall",
+	"id": "Y509rTCjRvk",
+	"intervals": [
+		["00:12", "02:55"]
+	],
+	"crops": [
+		["503", "888", "0", "888"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_PatrickLeahy0",
+	"id": "ICk1rx235Ec",
+	"intervals": [
+		["00:12", "04:50"]
+	],
+	"crops": [
+		["396", "482", "0", "482"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_PatrickLeahy1",
+	"id": "cQcePpoV6es",
+	"intervals": [
+		["00:12", "06:50"]
+	],
+	"crops": [
+		["532", "897", "0", "897"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_BenCardin0",
+	"id": "hSvTbV4wW8A",
+	"intervals": [
+		["00:15", "05:40"]
+	],
+	"crops": [
+		["591", "765", "0", "765"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_BenCardin1",
+	"id": "OTg7ngyHFWw",
+	"intervals": [
+		["00:11", "04:55"]
+	],
+	"crops": [
+		["608", "738", "0", "738"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_AmyKlobuchar0",
+	"id": "nIi3ytc5IY0",
+	"intervals": [
+		["00:10", "04:30"]
+	],
+	"crops": [
+		["399", "497", "0", "497"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_AmyKlobuchar1",
+	"id": "EyHSdWDYm1M",
+	"intervals": [
+		["00:35", "02:45"],
+		["03:25", "04:00"],
+		["05:05", "06:05"],
+		["06:45", "07:40"]
+	],
+	"crops": [
+		["487", "1005", "0", "1005"],
+		["521", "1046", "0", "1046"],
+		["507", "905", "0", "905"],
+		["519", "1000", "0", "1000"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_ChrisVanHollen0",
+	"id": "tUQlOFFCeOY",
+	"intervals": [
+		["00:12", "05:40"]
+	],
+	"crops": [
+		["594", "719", "0", "719"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_ChrisVanHollen1",
+	"id": "wWBsX4wP3pc",
+	"intervals": [
+		["00:12", "05:05"]
+	],
+	"crops": [
+		["609", "684", "0", "684"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_RonWyden0",
+	"id": "s8shrTpxdp4",
+	"intervals": [
+		["00:12", "03:38"]
+	],
+	"crops": [
+		["535", "863", "0", "863"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_RonWyden1",
+	"id": "vntrun-ixVY",
+	"intervals": [
+		["00:12", "05:45"]
+	],
+	"crops": [
+		["636", "644", "0", "644"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_AdamSmith",
+	"id": "GHJJxq0Qojc",
+	"intervals": [
+		["00:02", "04:55"]
+	],
+	"crops": [
+		["532", "958", "0", "958"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_ChrisCoons",
+	"id": "K1y0pNIzGO8",
+	"intervals": [
+		["00:12", "04:45"]
+	],
+	"crops": [
+		["411", "485", "11", "485"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_ChrisCoons1",
+	"id": "AlqYSm_Lz-M",
+	"intervals": [
+		["00:12", "03:10"]
+	],
+	"crops": [
+		["559", "762", "0", "762"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_BernieSanders",
+	"id": "5eli_8k9wiI",
+	"intervals": [
+		["00:12", "05:50"]
+	],
+	"crops": [
+		["493", "974", "0", "974"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_SherrodBrown0",
+	"id": "163vjUl3-yI",
+	"intervals": [
+		["00:12", "05:10"]
+	],
+	"crops": [
+		["463", "849", "98", "849"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_SherrodBrown1",
+	"id": "ZaOVsSgdmhU",
+	"intervals": [
+		["00:12", "05:05"]
+	],
+	"crops": [
+		["487", "957", "0", "957"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_JamesClyburn",
+	"id": "eKqPmFleCy0",
+	"intervals": [
+		["00:05", "04:40"]
+	],
+	"crops": [
+		["426", "452", "1", "452"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_JamesClyburn1",
+	"id": "gh3YqnvNdio",
+	"intervals": [
+		["00:05", "04:40"]
+	],
+	"crops": [
+		["575", "808", "0", "808"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_TomCarper",
+	"id": "e3gUvfCygyQ",
+	"intervals": [
+		["00:12", "03:20"]
+	],
+	"crops": [
+		["569", "712", "28", "712"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_TomPerez",
+	"id": "MYQkbll5eY8",
+	"intervals": [
+		["00:05", "03:45"]
+	],
+	"crops": [
+		["581", "1044", "0", "1044"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_ChrisMurphy0",
+	"id": "q89G2WouaKA",
+	"intervals": [
+		["00:15", "04:50"]
+	],
+	"crops": [
+		["511", "871", "0", "871"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_ChrisMurphy1",
+	"id": "mH0lTSLBBsE",
+	"intervals": [
+		["00:10", "04:25"]
+	],
+	"crops": [
+		["502", "869", "0", "869"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_LindaSnchez",
+	"id": "FE1m7xHm8vE",
+	"intervals": [
+		["00:05", "05:05"]
+	],
+	"crops": [null],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_JoeCrowley0",
+	"id": "P91UjXCD1-8",
+	"intervals": [
+		["00:15", "03:30"]
+	],
+	"crops": [
+		["44", "1074", "0", "1074"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_JoeCrowley1",
+	"id": "jsp_ia70cMY",
+	"intervals": [
+		["00:35", "01:20"],
+		["01:30", "01:55"],
+		["02:15", "02:35"],
+		["03:05", "03:35"]
+	],
+	"crops": [
+		["504", "752", "0", "752"],
+		["449", "809", "0", "809"],
+		["482", "751", "0", "751"],
+		["448", "766", "0", "766"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_EdMarkey0",
+	"id": "1-vMyh8ST90",
+	"intervals": [
+		["00:05", "03:15"]
+	],
+	"crops": [
+		["383", "502", "0", "502"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_EdMarkey1",
+	"id": "fkzSlxbM0y8",
+	"intervals": [
+		["00:10", "04:30"]
+	],
+	"crops": [
+		["529", "750", "0", "750"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_ChuckSchumer0",
+	"id": "Sz9zDiDe9gE",
+	"intervals": [
+		["00:02", "03:45"]
+	],
+	"crops": [
+		["384", "505", "23", "505"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_ChuckSchumer1",
+	"id": "_lg5_2_Ra6Y",
+	"intervals": [
+		["00:12", "03:25"]
+	],
+	"crops": [
+		["604", "829", "0", "829"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_JoeNeguse",
+	"id": "NL1apD9NSYQ",
+	"intervals": [
+		["00:35", "01:40"],
+		["02:10", "02:55"],
+		["03:40", "04:30"]
+	],
+	"crops": [
+		["560", "819", "0", "819"],
+		["567", "833", "0", "833"],
+		["556", "836", "0", "836"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_AdamSchiff",
+	"id": "wMypCqkYKS8",
+	"intervals": [
+		["00:05", "04:40"]
+	],
+	"crops": [
+		["608", "726", "0", "726"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_EricSwalwell",
+	"id": "LjFHqF3dgD4",
+	"intervals": [
+		["00:15", "04:30"]
+	],
+	"crops": [
+		["566", "844", "0", "844"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_TedDeutch",
+	"id": "mf7qbGOrHIc",
+	"intervals": [
+		["00:05", "04:20"]
+	],
+	"crops": [
+		["630", "746", "0", "746"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_TimWalz",
+	"id": "I71ki7L6AAw",
+	"intervals": [
+		["00:05", "04:30"]
+	],
+	"crops": [
+		["609", "626", "0", "626"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_LucilleRoybal-Allard",
+	"id": "dyGp3W5yMwE",
+	"intervals": [
+		["00:10", "02:05"]
+	],
+	"crops": [
+		["591", "806", "37", "806"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_TammyDuckworth",
+	"id": "HY5-JOUUIgk",
+	"intervals": [
+		["00:12", "04:00"]
+	],
+	"crops": [
+		["588", "684", "0", "684"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_DickDurbin",
+	"id": "iAflkVdacDk",
+	"intervals": [
+		["00:12", "04:25"]
+	],
+	"crops": [
+		["556", "817", "0", "817"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_MazieHirono0",
+	"id": "QTIKKbdbGDs",
+	"intervals": [
+		["00:05", "02:35"]
+	],
+	"crops": [
+		["368", "492", "0", "492"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_MazieHirono1",
+	"id": "pwsLS6MMumw",
+	"intervals": [
+		["00:05", "03:40"]
+	],
+	"crops": [
+		["83", "1134", "0", "1134"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_PattyMurray0",
+	"id": "Dk_W9oqD8_I",
+	"intervals": [
+		["00:05", "02:30"]
+	],
+	"crops": [
+		["377", "493", "0", "493"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_PattyMurray1",
+	"id": "BGqHL3cIp5M",
+	"intervals": [
+		["00:12", "04:00"]
+	],
+	"crops": [
+		["550", "850", "0", "850"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_JonTester0",
+	"id": "KtcGPYDa9qM",
+	"intervals": [
+		["00:05", "02:15"]
+	],
+	"crops": [
+		["363", "519", "0", "519"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_JonTester1",
+	"id": "XWViRp0K02s",
+	"intervals": [
+		["00:12", "03:45"]
+	],
+	"crops": [
+		["521", "892", "0", "892"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_DonnaShalala0",
+	"id": "5fQykxA2zVU",
+	"intervals": [
+		["00:02", "01:50"]
+	],
+	"crops": [
+		["599", "771", "11", "771"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_DonnaShalala1",
+	"id": "qpF7MkHMkTE",
+	"intervals": [
+		["00:05", "05:05"]
+	],
+	"crops": [
+		["328", "564", "54", "564"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_KatherineClark",
+	"id": "vl-DDmNOQt0",
+	"intervals": [
+		["00:08", "01:10"]
+	],
+	"crops": [
+		["498", "850", "0", "850"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_LaurenUnderwood",
+	"id": "22ZVDYY0l_s",
+	"intervals": [
+		["00:05", "06:40"]
+	],
+	"crops": [
+		["444", "943", "0", "943"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_AndyKim",
+	"id": "R15EcGxd-4s",
+	"intervals": [
+		["00:02", "04:40"]
+	],
+	"crops": [
+		["596", "823", "0", "823"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_TammyBaldwin0",
+	"id": "Z-5HSabCkNI",
+	"intervals": [
+		["00:12", "03:45"]
+	],
+	"crops": [
+		["575", "792", "0", "792"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_TammyBaldwin1",
+	"id": "e8bvlpzOs9I",
+	"intervals": [
+		["00:05", "01:45"]
+	],
+	"crops": [
+		["566", "790", "0", "790"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_SheldonWhitehouse0",
+	"id": "dzSdriXcyx8",
+	"intervals": [
+		["00:12", "04:25"]
+	],
+	"crops": [
+		["655", "641", "0", "641"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_SheldonWhitehouse1",
+	"id": "qVApYzjFkmU",
+	"intervals": [
+		["00:12", "04:00"]
+	],
+	"crops": [
+		["630", "760", "31", "760"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_CatherineCortezMasto",
+	"id": "FkD1GDmLMNU",
+	"intervals": [
+		["00:02", "01:55"]
+	],
+	"crops": [
+		["574", "771", "0", "771"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_DougJones",
+	"id": "K6ciu7lXhp0",
+	"intervals": [
+		["00:12", "04:15"]
+	],
+	"crops": [
+		["612", "703", "53", "703"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_JanSchakowsky0",
+	"id": "kPFzQbfasCs",
+	"intervals": [
+		["00:15", "03:00"]
+	],
+	"crops": [
+		["346", "585", "0", "585"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_JanSchakowsky1",
+	"id": "YG2WFIrUbik",
+	"intervals": [
+		["00:05", "04:15"]
+	],
+	"crops": [
+		["376", "595", "3", "595"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_KatieHill",
+	"id": "Y71hHF4g7Fg",
+	"intervals": [
+		["00:05", "03:20"]
+	],
+	"crops": [
+		["384", "549", "0", "549"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_JerryNadler",
+	"id": "3D78afEW2EQ",
+	"intervals": [
+		["00:05", "05:40"]
+	],
+	"crops": [
+		["434", "435", "34", "435"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_BobbyScott",
+	"id": "VYZa6gikqrs",
+	"intervals": [
+		["00:05", "01:25"]
+	],
+	"crops": [
+		["454", "428", "0", "428"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_DianneFeinstein",
+	"id": "fscpG9LF3-c",
+	"intervals": [
+		["00:12", "05:10"]
+	],
+	"crops": [
+		["369", "504", "18", "504"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_MaggieHassan",
+	"id": "QXXK4n9BvjI",
+	"intervals": [
+		["00:05", "01:35"]
+	],
+	"crops": [
+		["389", "776", "0", "776"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_MichaelBennet",
+	"id": "23KDoBoFy4o",
+	"intervals": [
+		["00:12", "01:30"]
+	],
+	"crops": [
+		["393", "463", "0", "463"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_JoeKennedy",
+	"id": "g9ZTLUvEktA",
+	"intervals": [
+		["00:12", "01:05"]
+	],
+	"crops": [
+		["387", "575", "0", "575"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_KirstenGillibrand",
+	"id": "MYEEG5Eby78",
+	"intervals": [
+		["00:05", "06:30"]
+	],
+	"crops": [
+		["404", "439", "2", "439"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_StenyHoyer",
+	"id": "GGpG3YReuLA",
+	"intervals": [
+		["00:05", "02:25"]
+	],
+	"crops": [
+		["398", "495", "12", "495"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_BarackObama",
+	"id": "tvA_jbuL0Jo",
+	"intervals": [
+		["00:02", "02:25"],
+		["03:00", "06:45"]
+	],
+	"crops": [
+		["500", "1034", "0", "1034"],
+		["488", "1024", "0", "1024"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_MichelleObama",
+	"id": "A51cjr_yPSY",
+	"intervals": [
+		["00:05", "01:25"]
+	],
+	"crops": [
+		["341", "1017", "0", "1017"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_HillaryClinton",
+	"id": "Z8AE7CzqCFc",
+	"intervals": [
+		["00:05", "01:45"]
+	],
+	"crops": [
+		["631", "790", "33", "790"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_HenryWaxman",
+	"id": "18-GTI5tcX4",
+	"intervals": [
+		["00:10", "00:55"]
+	],
+	"crops": [
+		["779", "1026", "0", "1026"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_JackReed0",
+	"id": "zSdK65I1VKU",
+	"intervals": [
+		["00:05", "01:40"]
+	],
+	"crops": [
+		["251", "603", "0", "603"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_JackReed1",
+	"id": "vldtQQub10U",
+	"intervals": [
+		["00:05", "03:20"]
+	],
+	"crops": [
+		["450", "550", "0", "550"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_BillRichardson",
+	"id": "G9bTBSAbBiM",
+	"intervals": [
+		["00:10", "02:15"]
+	],
+	"crops": [
+		["373", "518", "0", "518"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WDA_XavierBecerra",
+	"id": "ipRmriZTOEA",
+	"intervals": [
+		["00:45", "01:20"],
+		["01:40", "02:05"],
+		["03:30", "04:25"]
+	],
+	"crops": [
+		["600", "659", "0", "659"],
+		["617", "652", "0", "652"],
+		["588", "707", "0", "707"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_BobMenendez",
+	"id": "6XXe_z_eoA0",
+	"intervals": [
+		["00:12", "02:12"]
+	],
+	"crops": [
+		["538", "746", "0", "746"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_JoeDonnelly",
+	"id": "tZLlK7IB16Y",
+	"intervals": [
+		["00:05", "01:00"]
+	],
+	"crops": [
+		["570", "755", "0", "755"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_JoeManchin",
+	"id": "tphM095h_XI",
+	"intervals": [
+		["00:05", "02:20"]
+	],
+	"crops": [
+		["587", "831", "0", "831"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_ByronDorgan0",
+	"id": "Q-qKDn-G7b4",
+	"intervals": [
+		["00:05", "04:00"]
+	],
+	"crops": [null],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_ByronDorgan1",
+	"id": "u0loe8fARLk",
+	"intervals": [
+		["00:02", "02:53"]
+	],
+	"crops": [
+		["508", "717", "0", "717"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WDA_AlexandriaOcasioCortez",
+	"id": "SP0MG9TecVM",
+	"intervals": [
+		["00:05", "01:35"]
+	],
+	"crops": [
+		["342", "591", "0", "591"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_DebFischer0",
+	"id": "v0PFtc_fMgY",
+	"intervals": [
+		["00:02", "05:05"]
+	],
+	"crops": [
+		["390", "501", "4", "501"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_DebFischer1",
+	"id": "8_Ka0f98wUY",
+	"intervals": [
+		["00:02", "01:05"]
+	],
+	"crops": [
+		["410", "447", "31", "447"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_DebFischer2",
+	"id": "ETdiK-zr-ro",
+	"intervals": [
+		["00:12", "03:40"]
+	],
+	"crops": [
+		["648", "610", "28", "610"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_CoryGardner0",
+	"id": "jSw_GUq6ato",
+	"intervals": [
+		["00:12", "05:55"]
+	],
+	"crops": [
+		["555", "831", "0", "831"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_CoryGardner1",
+	"id": "uw6_kHvzDRs",
+	"intervals": [
+		["00:05", "01:25"]
+	],
+	"crops": [
+		["556", "820", "0", "820"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_CoryGardner",
+	"id": "L6d07xtyGjU",
+	"intervals": [
+		["00:05", "00:55"]
+	],
+	"crops": [
+		["416", "507", "0", "507"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_JohnBarrasso0",
+	"id": "MxkBkoBfaQQ",
+	"intervals": [
+		["00:12", "03:35"]
+	],
+	"crops": [
+		["564", "590", "13", "590"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_JohnBarrasso1",
+	"id": "mXjrrJBm4eQ",
+	"intervals": [
+		["00:12", "02:30"]
+	],
+	"crops": [
+		["609", "828", "0", "828"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_ToddYoung",
+	"id": "2nX0M-JFWCc",
+	"intervals": [
+		["00:30", "04:40"]
+	],
+	"crops": [
+		["465", "965", "0", "965"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_LamarAlexander0",
+	"id": "XUYBhf06B3k",
+	"intervals": [
+		["00:01", "01:02"]
+	],
+	"crops": [
+		["443", "910", "52", "910"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_LamarAlexander",
+	"id": "BeYihfVbhQs",
+	"intervals": [
+		["00:01", "01:03"]
+	],
+	"crops": [
+		["248", "624", "0", "624"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_ChuckGrassley",
+	"id": "NqTJJLSxijA",
+	"intervals": [
+		["01:10", "04:10"]
+	],
+	"crops": [
+		["305", "689", "0", "689"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_JoniErnst0",
+	"id": "JeUpix0tltE",
+	"intervals": [
+		["00:02", "01:25"]
+	],
+	"crops": [
+		["404", "462", "0", "462"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_JoniErnst1",
+	"id": "DwLXVBjry6o",
+	"intervals": [
+		["00:02", "01:00"]
+	],
+	"crops": [
+		["338", "596", "0", "596"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_DanSullivan",
+	"id": "VYa8jgTaGzI",
+	"intervals": [
+		["00:05", "04:40"]
+	],
+	"crops": [
+		["434", "420", "1", "420"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_KellyAyotte",
+	"id": "ZYRbdbYH4YI",
+	"intervals": [
+		["00:12", "05:35"]
+	],
+	"crops": [
+		["601", "614", "40", "614"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_LisaMurkowski0",
+	"id": "J7_fsLayrnY",
+	"intervals": [
+		["00:02", "01:12"]
+	],
+	"crops": [
+		["688", "524", "33", "524"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_JohnHoeven",
+	"id": "EzcXk0nXTJM",
+	"intervals": [
+		["00:02", "01:45"]
+	],
+	"crops": [
+		["607", "620", "0", "620"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_MikeCrapo",
+	"id": "YhPB2Zz-YyQ",
+	"intervals": [
+		["00:01", "01:30"]
+	],
+	"crops": [
+		["573", "780", "0", "780"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_SteveDaines0",
+	"id": "a18V-MRrnlk",
+	"intervals": [
+		["00:02", "01:35"]
+	],
+	"crops": [
+		["665", "594", "32", "594"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_SteveDaines",
+	"id": "fMDmlxtMb_0",
+	"intervals": [
+		["00:02", "01:45"]
+	],
+	"crops": [
+		["445", "379", "24", "379"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_BillCassidy",
+	"id": "FCOfQ9wVQVA",
+	"intervals": [
+		["00:05", "01:20"]
+	],
+	"crops": [null],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_BillCassidy0",
+	"id": "9RqwfXGmPbU",
+	"intervals": [
+		["00:02", "00:19"]
+	],
+	"crops": [
+		["780", "584", "54", "584"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_ShelleyMooreCapito0",
+	"id": "hTZ-Ttxg444",
+	"intervals": [
+		["00:02", "04:05"]
+	],
+	"crops": [
+		["380", "484", "3", "484"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_ShelleyMooreCapito1",
+	"id": "JqZCwrIMKyw",
+	"intervals": [
+		["00:25", "01:00"],
+		["01:18", "02:20"]
+	],
+	"crops": [
+		["400", "497", "16", "497"],
+		["388", "521", "3", "521"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_JohnThune",
+	"id": "gFin0btOWpk",
+	"intervals": [
+		["00:02", "01:00"]
+	],
+	"crops": [
+		["676", "536", "23", "536"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_JimInhofe",
+	"id": "Dhcw8E21lNg",
+	"intervals": [
+		["00:05", "02:10"]
+	],
+	"crops": [
+		["550", "793", "0", "793"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_JohnBoozman",
+	"id": "PT3SRCwoHVA",
+	"intervals": [
+		["00:05", "01:20"]
+	],
+	"crops": [
+		["558", "694", "0", "694"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_RoyBlunt",
+	"id": "6E2rrp8JhUk",
+	"intervals": [
+		["00:02", "01:00"]
+	],
+	"crops": [
+		["167", "458", "12", "458"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_MikeEnzi",
+	"id": "KO0_kJu2uo0",
+	"intervals": [
+		["00:01", "05:55"]
+	],
+	"crops": [
+		["614", "751", "0", "751"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_TimScott",
+	"id": "0hslwfiRYaQ",
+	"intervals": [
+		["00:05", "01:00"]
+	],
+	"crops": [
+		["552", "769", "0", "769"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_MarcoRubio",
+	"id": "8w4XiJNgLXE",
+	"intervals": [
+		["00:27", "00:48"]
+	],
+	"crops": [
+		["716", "693", "6", "693"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_JimRisch",
+	"id": "LqPG7yS0chg",
+	"intervals": [
+		["00:05", "01:00"]
+	],
+	"crops": [
+		["563", "719", "2", "719"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_SamBrownback",
+	"id": "jXkU9PYwQSE",
+	"intervals": [
+		["00:12", "02:50"]
+	],
+	"crops": [
+		["324", "573", "0", "573"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_JohnBoehner0",
+	"id": "nxC7Jp3yC4Y",
+	"intervals": [
+		["00:05", "01:10"]
+	],
+	"crops": [
+		["593", "772", "0", "772"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_JohnBoehner1",
+	"id": "nv1rPpHhKOA",
+	"intervals": [
+		["00:12", "02:10"]
+	],
+	"crops": [
+		["617", "734", "0", "734"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_MittRomney",
+	"id": "YFTuC5omdYA",
+	"intervals": [
+		["08:10", "08:30"],
+		["00:33", "08:53"]
+	],
+	"crops": [
+		["614", "964", "0", "964"], null
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_AnnWagner",
+	"id": "GIdx0OP5j5c",
+	"intervals": [
+		["00:05", "02:10"]
+	],
+	"crops": [
+		["629", "727", "156", "727"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_JeffFlake",
+	"id": "S_9Gk6SMHnA",
+	"intervals": [
+		["00:12", "05:00"],
+		["05:00", "10:00"],
+		["10:00", "14:55"]
+	],
+	"crops": [
+		["640", "717", "0", "717"],
+		["631", "789", "0", "789"],
+		["608", "841", "0", "841"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_MarkwayneMullin",
+	"id": "9V2K2kOCWPU",
+	"intervals": [
+		["05:05", "05:35"],
+		["06:10", "06:40"]
+	],
+	"crops": [
+		["652", "652", "0", "652"],
+		["659", "637", "0", "637"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_ReincePriebus",
+	"id": "SZruFe8odYU",
+	"intervals": [
+		["03:05", "03:30"]
+	],
+	"crops": [
+		["388", "461", "0", "461"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_AllenWest",
+	"id": "HAVyoVVjBEE",
+	"intervals": [
+		["00:20", "04:55"]
+	],
+	"crops": [
+		["447", "656", "0", "656"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_SteveScalise0",
+	"id": "wCPBehRK5Gs",
+	"intervals": [
+		["00:06", "01:10"]
+	],
+	"crops": [
+		["548", "747", "0", "747"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_SteveScalise1",
+	"id": "z7PEwz8yb9A",
+	"intervals": [
+		["01:52", "02:15"]
+	],
+	"crops": [
+		["524", "859", "0", "859"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_RandPaul0",
+	"id": "QwymRXncOC8",
+	"intervals": [
+		["00:01", "03:05"]
+	],
+	"crops": [
+		["347", "663", "0", "663"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_RandPaul1",
+	"id": "U34G5IEydmw",
+	"intervals": [
+		["00:01", "01:25"]
+	],
+	"crops": [
+		["435", "1017", "0", "1017"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_RandPaul2",
+	"id": "5rTk831pQFM",
+	"intervals": [
+		["00:01", "04:25"],
+		["04:25", "09:30"]
+	],
+	"crops": [
+		["514", "882", "0", "882"],
+		["563", "828", "8", "828"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_VickyHartzler",
+	"id": "1yJbHfbkRgQ",
+	"intervals": [
+		["00:12", "04:15"]
+	],
+	"crops": [
+		["647", "677", "0", "677"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_EricCantor",
+	"id": "Y1HstTMS0bQ",
+	"intervals": [
+		["00:02", "02:00"]
+	],
+	"crops": [
+		["363", "897", "0", "897"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_AnnMarieBuerkle",
+	"id": "9ZunvBHkGdE",
+	"intervals": [
+		["00:12", "00:30"]
+	],
+	"crops": [
+		["421", "407", "0", "407"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_ErikPaulsen",
+	"id": "hyNyuIQXYOY",
+	"intervals": [
+		["01:05", "01:40"],
+		["01:55", "02:10"],
+		["02:25", "02:50"],
+		["04:55", "05:25"]
+	],
+	"crops": [
+		["628", "660", "0", "660"],
+		["628", "661", "0", "661"],
+		["633", "685", "0", "685"],
+		["628", "667", "0", "667"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_LynnJenkins",
+	"id": "KqD6i7RrxkQ",
+	"intervals": [
+		["00:35", "01:10"],
+		["02:45", "03:25"]
+	],
+	"crops": [
+		["399", "501", "15", "501"],
+		["425", "451", "16", "451"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_KristiNoem0",
+	"id": "e047LKIFnH0",
+	"intervals": [
+		["00:02", "00:31"]
+	],
+	"crops": [
+		["634", "622", "29", "622"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_KristiNoem1",
+	"id": "7k6rgMAwi1E",
+	"intervals": [
+		["00:02", "00:20"]
+	],
+	"crops": [
+		["643", "579", "40", "579"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_KristiNoem2",
+	"id": "fuoZ0nzZV8E",
+	"intervals": [
+		["00:02", "04:00"],
+		["04:00", "08:51"]
+	],
+	"crops": [
+		["553", "734", "77", "734"],
+		["532", "756", "52", "756"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_PaulRyan0",
+	"id": "Qye0AKQ0yF0",
+	"intervals": [
+		["00:30", "00:58"],
+		["06:00", "07:00"]
+	],
+	"crops": [
+		["339", "546", "21", "546"],
+		["368", "563", "0", "563"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_PaulRyan1",
+	"id": "C_QqAto3d0M",
+	"intervals": [
+		["00:43", "01:00"],
+		["02:40", "02:55"]
+	],
+	"crops": [
+		["608", "720", "20", "720"],
+		["637", "665", "32", "665"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_KayBaileyHutchison",
+	"id": "wBgt1x5Z7-M",
+	"intervals": [
+		["00:02", "04:15"]
+	],
+	"crops": [
+		["572", "737", "24", "737"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_CathyMcMorrisRodgers0",
+	"id": "il5U_vG9Jnk",
+	"intervals": [
+		["00:02", "04:05"]
+	],
+	"crops": [
+		["498", "746", "12", "746"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_CathyMcMorrisRodgers1",
+	"id": "yDi_pmbanwc",
+	"intervals": [
+		["00:05", "05:00"],
+		["05:00", "10:00"],
+		["10:00", "15:00"]
+	],
+	"crops": [
+		["298", "675", "0", "675"],
+		["247", "701", "0", "701"],
+		["244", "654", "0", "654"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_CathyMcMorrisRodgers2",
+	"id": "21mNN49Pp34",
+	"intervals": [
+		["00:05", "01:55"]
+	],
+	"crops": [
+		["333", "592", "0", "592"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_DanNewhouse",
+	"id": "W0Wi9w6Keh0",
+	"intervals": [
+		["00:05", "02:30"]
+	],
+	"crops": [
+		["536", "729", "24", "729"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_JebHensarling0",
+	"id": "kP0vM42Gb8A",
+	"intervals": [
+		["00:05", "01:05"],
+		["03:08", "03:55"]
+	],
+	"crops": [
+		["609", "668", "0", "668"],
+		["614", "649", "0", "649"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_JebHensarling1",
+	"id": "jcRAWmFbHGs",
+	"intervals": [
+		["01:42", "03:15"],
+		["03:35", "04:04"]
+	],
+	"crops": [
+		["620", "677", "0", "677"],
+		["624", "669", "4", "669"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_JebHensarling2",
+	"id": "IggY_NJyVJc",
+	"intervals": [
+		["00:18", "01:50"],
+		["02:20", "02:55"],
+		["03:25", "04:50"],
+		["05:15", "06:30"]
+	],
+	"crops": [
+		["396", "466", "0", "466"],
+		["411", "442", "3", "442"],
+		["402", "466", "0", "466"],
+		["414", "450", "0", "450"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_NanHayworth",
+	"id": "bGBeMy0QbRU",
+	"intervals": [
+		["00:12", "01:50"]
+	],
+	"crops": [
+		["355", "533", "0", "533"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_OlympiaSnowe",
+	"id": "Wxm_aYIwuTQ",
+	"intervals": [
+		["00:17", "00:35"]
+	],
+	"crops": [
+		["911", "623", "28", "623"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_BobbySchilling",
+	"id": "nSw4tC2CsR4",
+	"intervals": [
+		["01:05", "02:15"],
+		["02:30", "03:10"],
+		["05:50", "06:30"]
+	],
+	"crops": [
+		["309", "966", "0", "966"],
+		["313", "909", "4", "909"],
+		["351", "915", "32", "915"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_KevinMcCarthy0",
+	"id": "yZ_oh_Vei2g",
+	"intervals": [
+		["03:20", "04:00"],
+		["06:20", "07:05"]
+	],
+	"crops": [
+		["412", "440", "24", "440"],
+		["415", "433", "27", "433"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_KevinMcCarthy1",
+	"id": "9Pjxcu2EZY4",
+	"intervals": [
+		["00:22", "00:45"],
+		["01:05", "01:20"]
+	],
+	"crops": [
+		["412", "465", "0", "465"],
+		["421", "459", "14", "459"]
+	],
+	"output_dir": "output",
+	"resolution": "0"
+}, {
+	"name": "WRA_PeterRoskam0",
+	"id": "8cjXY8iJvu0",
+	"intervals": [
+		["03:00", "03:40"]
+	],
+	"crops": [
+		["495", "686", "0", "686"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_PeterRoskam1",
+	"id": "ttYV1uhR2aA",
+	"intervals": [
+		["00:36", "01:15"],
+		["01:48", "02:35"]
+	],
+	"crops": [
+		["553", "778", "0", "778"],
+		["565", "793", "0", "793"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_RudyGiuliani",
+	"id": "Jvc0j1Obgf8",
+	"intervals": [
+		["00:12", "00:58"]
+	],
+	"crops": [null],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_BobGoodlatte0",
+	"id": "WFR6zLc5kfc",
+	"intervals": [
+		["00:50", "01:30"],
+		["02:05", "02:35"],
+		["03:50", "04:25"],
+		["05:00", "05:40"]
+	],
+	"crops": [
+		["412", "478", "0", "478"],
+		["415", "469", "0", "469"],
+		["405", "474", "0", "474"],
+		["409", "474", "0", "474"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_DeanHeller",
+	"id": "gnrKKc0ry30",
+	"intervals": [
+		["02:14", "02:29"]
+	],
+	"crops": [
+		["409", "489", "0", "489"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_JohnKasich0",
+	"id": "mdWtZ2jEaTE",
+	"intervals": [
+		["00:58", "01:50"]
+	],
+	"crops": [
+		["380", "622", "0", "622"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_JohnKasich1",
+	"id": "Zo6sO8_GjeE",
+	"intervals": [
+		["00:20", "01:12"],
+		["01:55", "02:40"]
+	],
+	"crops": [
+		["663", "641", "4", "641"],
+		["700", "573", "34", "573"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_JohnKasich2",
+	"id": "howcao2Ki8M",
+	"intervals": [
+		["00:02", "01:00"]
+	],
+	"crops": [
+		["361", "548", "0", "548"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_JohnKasich3",
+	"id": "TFatwy1lRqw",
+	"intervals": [
+		["00:40", "01:22"]
+	],
+	"crops": [
+		["612", "746", "10", "746"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_JonKyl",
+	"id": "17MgTk4bAIE",
+	"intervals": [
+		["00:05", "00:30"]
+	],
+	"crops": [
+		["549", "834", "0", "834"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_ReneeEllmers",
+	"id": "Biic3WA57IA",
+	"intervals": [
+		["00:01", "01:35"]
+	],
+	"crops": [
+		["426", "469", "0", "469"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_AdamKinzinger0",
+	"id": "utalo9-nlwA",
+	"intervals": [
+		["00:05", "02:55"]
+	],
+	"crops": [
+		["306", "480", "41", "480"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_AdamKinzinger1",
+	"id": "pnsqgrNs7DQ",
+	"intervals": [
+		["00:05", "01:55"]
+	],
+	"crops": [
+		["319", "492", "11", "492"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_AdamKinzinger2",
+	"id": "xObrQqUkBSo",
+	"intervals": [
+		["00:40", "01:20"],
+		["02:00", "02:40"],
+		["03:30", "03:50"]
+	],
+	"crops": [
+		["397", "513", "0", "513"],
+		["416", "498", "12", "498"],
+		["396", "465", "32", "465"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_MarthaRoby",
+	"id": "36_P20ip-zU",
+	"intervals": [
+		["00:01", "01:58"]
+	],
+	"crops": [
+		["529", "758", "0", "758"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_MikeJohanns1",
+	"id": "xwU1YMLrTzw",
+	"intervals": [
+		["00:12", "02:55"]
+	],
+	"crops": [
+		["614", "784", "16", "784"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_MikeJohanns",
+	"id": "0cEEQQKQA7s",
+	"intervals": [
+		["01:08", "01:36"]
+	],
+	"crops": [
+		["463", "550", "22", "550"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_JaimeHerreraBeutler0",
+	"id": "oHXGWV95vkc",
+	"intervals": [
+		["00:02", "00:40"]
+	],
+	"crops": [
+		["687", "743", "24", "743"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_JaimeHerreraBeutler",
+	"id": "vzcdbaYmXjU",
+	"intervals": [
+		["00:02", "03:40"]
+	],
+	"crops": [null],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_DianeBlack0",
+	"id": "wpKkmvg5DWc",
+	"intervals": [
+		["04:20", "04:38"],
+		["05:28", "05:40"]
+	],
+	"crops": [
+		["172", "578", "0", "578"],
+		["64", "590", "0", "590"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_DianeBlack1",
+	"id": "m8tCZYJ7koo",
+	"intervals": [
+		["10:35", "10:45"]
+	],
+	"crops": [
+		["242", "779", "0", "779"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_AustinScott0",
+	"id": "fB4DtNwajpQ",
+	"intervals": [
+		["00:05", "00:52"]
+	],
+	"crops": [
+		["525", "896", "0", "896"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_AustinScott2",
+	"id": "y1S0jd4xoeA",
+	"intervals": [
+		["00:05", "00:55"]
+	],
+	"crops": [
+		["733", "599", "0", "599"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_GregWalden1",
+	"id": "V-J43pMGWfk",
+	"intervals": [
+		["00:35", "01:05"],
+		["01:45", "02:30"],
+		["03:45", "04:38"]
+	],
+	"crops": [
+		["388", "499", "0", "499"],
+		["399", "523", "0", "523"],
+		["400", "519", "0", "519"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_GregWalden",
+	"id": "aaDscwNAFVc",
+	"intervals": [
+		["02:45", "03:00"]
+	],
+	"crops": [
+		["433", "407", "0", "407"]
+	],
+	"output_dir": "output",
+	"resolution": "714"
+}, {
+	"name": "WRA_SaxbyChambliss",
+	"id": "4vkSZuEtFUE",
+	"intervals": [
+		["02:55", "04:35"]
+	],
+	"crops": [
+		["640", "968", "0", "968"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_MichaelSteele",
+	"id": "B6PJsainZiM",
+	"intervals": [
+		["02:47", "03:00"],
+		["04:18", "04:50"]
+	],
+	"crops": [
+		["602", "864", "0", "864"],
+		["530", "878", "0", "878"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_DavidVitter",
+	"id": "qasuj1K6xr8",
+	"intervals": [
+		["00:05", "02:00"]
+	],
+	"crops": [
+		["642", "624", "0", "624"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_PeteHoekstra",
+	"id": "XAaI8K3EJus",
+	"intervals": [
+		["00:05", "00:22"],
+		["01:44", "02:20"]
+	],
+	"crops": [
+		["668", "605", "0", "605"],
+		["664", "627", "0", "627"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_DaveCamp",
+	"id": "jzgxQ11iKww",
+	"intervals": [
+		["01:00", "01:30"],
+		["02:00", "02:35"],
+		["03:00", "03:25"]
+	],
+	"crops": [
+		["615", "690", "0", "690"],
+		["615", "711", "0", "711"],
+		["594", "703", "0", "703"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_PeterKing",
+	"id": "NRYERTEaPmo",
+	"intervals": [
+		["00:20", "00:40"]
+	],
+	"crops": [
+		["178", "872", "0", "872"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_DuncanHunter",
+	"id": "uRGBn6eoMGU",
+	"intervals": [
+		["00:46", "01:15"],
+		["01:45", "02:05"]
+	],
+	"crops": [
+		["565", "850", "0", "850"], null
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_CarlyFiorina0",
+	"id": "-R9KiSdzn38",
+	"intervals": [
+		["03:45", "04:20"]
+	],
+	"crops": [
+		["589", "716", "42", "716"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_CarlyFiorina",
+	"id": "dI01eISug-w",
+	"intervals": [
+		["00:05", "01:55"]
+	],
+	"crops": [
+		["195", "472", "0", "472"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_KevinBrady0",
+	"id": "MA5tOD9Z8Rk",
+	"intervals": [
+		["00:12", "00:40"]
+	],
+	"crops": [null],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_KevinBrady2",
+	"id": "jGNDkVrlDyQ",
+	"intervals": [
+		["00:27", "01:18"]
+	],
+	"crops": [
+		["585", "751", "0", "751"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_KevinBrady3",
+	"id": "kUSs3EQeLBY",
+	"intervals": [
+		["02:45", "03:15"]
+	],
+	"crops": [
+		["588", "770", "0", "770"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_KevinBrady",
+	"id": "Fzy1YEW-yqY",
+	"intervals": [
+		["00:02", "01:42"]
+	],
+	"crops": [
+		["370", "519", "12", "519"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_GeorgeLeMieux",
+	"id": "aPazhN0990s",
+	"intervals": [
+		["00:50", "01:20"],
+		["02:35", "03:15"]
+	],
+	"crops": [
+		["400", "490", "0", "490"],
+		["424", "452", "0", "452"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_CandiceMiller0",
+	"id": "7Y-cQWJbqI0",
+	"intervals": [
+		["00:05", "02:05"]
+	],
+	"crops": [
+		["443", "431", "13", "431"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_CandiceMiller",
+	"id": "vb8UfXqD_rU",
+	"intervals": [
+		["00:05", "02:20"]
+	],
+	"crops": [null],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_MitchDaniels0",
+	"id": "ozVBcdBF9T4",
+	"intervals": [
+		["00:48", "01:38"],
+		["03:05", "03:40"]
+	],
+	"crops": [
+		["593", "637", "0", "637"],
+		["672", "597", "0", "597"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_MitchDaniels1",
+	"id": "tjfcBGMlV4U",
+	"intervals": [
+		["00:15", "02:40"]
+	],
+	"crops": [
+		["531", "924", "0", "924"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_JuddGregg",
+	"id": "l_bESrPaTUM",
+	"intervals": [
+		["00:13", "01:03"],
+		["01:20", "01:58"],
+		["04:40", "05:10"]
+	],
+	"crops": [
+		["566", "698", "4", "698"],
+		["533", "760", "6", "760"],
+		["455", "779", "0", "779"]
+	],
+	"output_dir": "output",
+	"resolution": "1080"
+}, {
+	"name": "WRA_BobCorker",
+	"id": "TGll79cC7J4",
+	"intervals": [
+		["00:05", "00:50"]
+	],
+	"crops": [
+		["413", "466", "5", "466"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_FredUpton",
+	"id": "UHZtS2p8GOY",
+	"intervals": [
+		["00:02", "01:10"]
+	],
+	"crops": [
+		["600", "506", "0", "506"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_GeoffDavis",
+	"id": "1PuYTB9Zaps",
+	"intervals": [
+		["00:10", "00:20"]
+	],
+	"crops": [
+		["344", "526", "0", "526"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_JoeHeck1",
+	"id": "llDZm_wOJdQ",
+	"intervals": [
+		["00:10", "00:20"]
+	],
+	"crops": [
+		["405", "516", "0", "516"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_JoePitts",
+	"id": "KaKIcnzgwZQ",
+	"intervals": [
+		["00:12", "00:55"]
+	],
+	"crops": [
+		["443", "418", "34", "418"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_JohnnyIsakson",
+	"id": "weQ6ccjuStM",
+	"intervals": [
+		["00:02", "04:00"],
+		["04:00", "07:20"]
+	],
+	"crops": [
+		["393", "522", "0", "522"],
+		["428", "456", "2", "456"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_MarshaBlackburn0",
+	"id": "eHmbFO1ngKA",
+	"intervals": [
+		["00:01", "01:58"]
+	],
+	"crops": [
+		["278", "605", "0", "605"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_MarshaBlackburn1",
+	"id": "El964jI9jYo",
+	"intervals": [
+		["00:01", "06:40"]
+	],
+	"crops": [
+		["270", "495", "0", "495"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_PatRoberts",
+	"id": "np1bU_Qvxk0",
+	"intervals": [
+		["00:01", "00:25"]
+	],
+	"crops": [
+		["332", "600", "0", "600"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_RichardShelby",
+	"id": "JAjUhxKQMzM",
+	"intervals": [
+		["00:02", "01:25"]
+	],
+	"crops": [
+		["429", "349", "19", "349"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_RobPortman",
+	"id": "JHfE_z8I8x8",
+	"intervals": [
+		["00:02", "03:45"]
+	],
+	"crops": [
+		["416", "455", "0", "455"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_RogerWicker0",
+	"id": "cMnek5JOYnw",
+	"intervals": [
+		["00:05", "02:20"]
+	],
+	"crops": [
+		["347", "559", "0", "559"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_RogerWicker1",
+	"id": "cWDKLILFxK0",
+	"intervals": [
+		["00:05", "03:30"],
+		["03:30", "07:55"]
+	],
+	"crops": [
+		["409", "424", "0", "424"],
+		["394", "456", "0", "456"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_RogerWicker2",
+	"id": "Bl6Wu3Qb_g4",
+	"intervals": [
+		["00:15", "04:30"]
+	],
+	"crops": [
+		["361", "556", "0", "556"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_TomCotton",
+	"id": "q2JMlzuWmhg",
+	"intervals": [
+		["00:05", "01:20"]
+	],
+	"crops": [
+		["214", "676", "0", "676"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}, {
+	"name": "WRA_TomPrice",
+	"id": "LS2TFNwPVUM",
+	"intervals": [
+		["00:08", "00:40"]
+	],
+	"crops": [
+		["414", "487", "0", "487"]
+	],
+	"output_dir": "output",
+	"resolution": "720"
+}]

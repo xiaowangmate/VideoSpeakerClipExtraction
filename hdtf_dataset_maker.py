@@ -6,6 +6,8 @@ extractor = VideoSpeakerClipExtractor("./output")
 completed_txt = ["RD_video_url.txt"]
 file_folder_path = "input/txt"
 
+video_dict = {}
+
 for dir1, dir2, files in os.walk(file_folder_path):
     for file in files:
         if "video_url" in file and file not in completed_txt:
@@ -18,4 +20,6 @@ for dir1, dir2, files in os.walk(file_folder_path):
                         video_id, video_url = video_url_info.split(" ")
                         print(video_url)
                         extractor.gen_video_data_by_video_url(video_url)
+
+
 print("Data download and process completed.")
