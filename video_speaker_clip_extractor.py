@@ -10,6 +10,7 @@ import imagehash
 import scrapetube
 from PIL import Image
 from tqdm import tqdm
+from typing import List
 from pytube import YouTube
 from pydub import AudioSegment
 from moviepy.editor import VideoFileClip
@@ -27,7 +28,7 @@ bd = FullBodyDetector()
 
 
 class VideoSpeakerClipExtractor:
-    def __init__(self, output_base_dir, default_download_resolution=None):
+    def __init__(self, output_base_dir, default_download_resolution):
         self.headers = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60",
             "Referer": "https://mattw.io/"
@@ -87,9 +88,13 @@ class VideoSpeakerClipExtractor:
         youtube = YouTube(url, use_oauth=True, allow_oauth_cache=True)
         video_streams = youtube.streams
         if self.default_download_resolution:
-            video = video_streams.filter(res=f"{self.default_download_resolution}p").first()
+            video = None
+            for resolution_value in self.default_download_resolution:
+                video = video_streams.filter(res=f"{resolution_value}p").first()
+                if video:
+                    break
             if not video:
-                video = video_streams.get_highest_resolution()
+                video_streams.get_highest_resolution()
         else:
             video = video_streams.get_highest_resolution()
         video_download_name = f"{video_id.replace('-', '_')}.mp4"
@@ -460,10 +465,10 @@ class VideoSpeakerClipExtractor:
             w.write(json.dumps(self.metadata, ensure_ascii=False))
         logging.warning(f"Successfully saved video clip metadata.")
 
-    def download_video_task(self, video):
+    def download_video_task(self, video, sub_folder_path):
         video_id = video["videoId"]
         if video_id not in self.downloaded_video_list:
-            folder_path = f"{self.output_base_dir}/{video_id.replace('-', '_')}"
+            folder_path = f"{sub_folder_path}/{video_id.replace('-', '_')}"
             try:
                 self.download_video(video_id, folder_path)
                 self.update_downloaded_video_list(video_id)
@@ -472,13 +477,13 @@ class VideoSpeakerClipExtractor:
 
     def download_video_only_by_keyword(self, keyword):
         sub_folder_path = f"{self.output_base_dir}/{keyword}"
-        os.makedirs(sub_folder_path, exist_ok=True)
-        self.output_base_dir = sub_folder_path
+        if not os.path.exists(sub_folder_path):
+            os.makedirs(sub_folder_path, exist_ok=True)
 
         videos = scrapetube.get_search(keyword)
         with ThreadPoolExecutor(max_workers=10) as executor:
             for video in videos:
-                executor.submit(self.download_video_task, video)
+                executor.submit(self.download_video_task, video, sub_folder_path)
 
 
 if __name__ == "__main__":
@@ -487,7 +492,7 @@ if __name__ == "__main__":
         output_folder_path = config["output_path"]["output_folder_path"]
         search_words_path = config["input_path"]["search_words_path"]
         resolution = config["resolution"]
-        gpt = GPT(config["api_key"]["gpt"])
+        gpt = GPT(config["llm"]["gpt"]["api_key"])
 
     extractor = VideoSpeakerClipExtractor(output_folder_path, resolution)
 
