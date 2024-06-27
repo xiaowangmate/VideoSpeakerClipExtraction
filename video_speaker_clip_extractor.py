@@ -94,7 +94,7 @@ class VideoSpeakerClipExtractor:
                 if video:
                     break
             if not video:
-                video_streams.get_highest_resolution()
+                video = video_streams.get_highest_resolution()
         else:
             video = video_streams.get_highest_resolution()
         video_download_name = f"{video_id.replace('-', '_')}.mp4"
