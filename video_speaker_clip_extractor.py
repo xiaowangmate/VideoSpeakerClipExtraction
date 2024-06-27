@@ -469,11 +469,16 @@ class VideoSpeakerClipExtractor:
         video_id = video["videoId"]
         if video_id not in self.downloaded_video_list:
             folder_path = f"{sub_folder_path}/{video_id.replace('-', '_')}"
-            try:
-                self.download_video(video_id, folder_path)
+            video_download_name = f"{video_id.replace('-', '_')}.mp4"
+            video_download_path = f"{folder_path}/{video_download_name}"
+            if os.path.exists(video_download_path):
                 self.update_downloaded_video_list(video_id)
-            except Exception as e:
-                logging.warning(f"Video: {video_id} download error: {str(e)}.")
+            else:
+                try:
+                    self.download_video(video_id, folder_path)
+                    self.update_downloaded_video_list(video_id)
+                except Exception as e:
+                    logging.warning(f"Video: {video_id} download error: {str(e)}.")
 
     def download_video_only_by_keyword(self, keyword):
         sub_folder_path = f"{self.output_base_dir}/{keyword}"
@@ -485,6 +490,14 @@ class VideoSpeakerClipExtractor:
             for video in videos:
                 executor.submit(self.download_video_task, video, sub_folder_path)
 
+    def download_according_list(self):
+        with open(search_words_path, mode="r", encoding="utf-8") as s:
+            search_words = s.read().split("\n")
+            for search_word in search_words:
+                if search_word:
+                    # extractor.gen_video_data_by_keyword(search_word, speaker_keyword=True)
+                    extractor.download_video_only_by_keyword(search_word)
+
 
 if __name__ == "__main__":
     with open("config/config.json", mode="r", encoding="utf-8") as c:
@@ -495,10 +508,4 @@ if __name__ == "__main__":
         gpt = GPT(config["llm"]["gpt"]["api_key"])
 
     extractor = VideoSpeakerClipExtractor(output_folder_path, resolution)
-
-    with open(search_words_path, mode="r", encoding="utf-8") as s:
-        search_words = s.read().split("\n")
-        for search_word in search_words:
-            if search_word:
-                # extractor.gen_video_data_by_keyword(search_word, speaker_keyword=True)
-                extractor.download_video_only_by_keyword(search_word)
+    extractor.download_according_list()
