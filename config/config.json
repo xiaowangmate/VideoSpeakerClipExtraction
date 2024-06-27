@@ -1,6 +1,13 @@
 {
-  "api_key": {
-    "gpt": "xgjxaKzPQzQEEQkIycX6koWRofQ1M2Oc"
+  "llm": {
+    "gpt": {
+      "api_key": "xgjxaKzPQzQEEQkIycX6koWRofQ1M2Oc",
+      "default_model": "gpt-4o"
+    },
+    "doubao": {
+      "api_key": "832ac5be-662f-43ff-9520-3609481c3630",
+      "default_model": "ep-20240625091757-k9twx"
+    }
   },
   "output_path": {
     "output_folder_path": "./output"
@@ -8,5 +15,5 @@
   "input_path": {
     "search_words_path": "./input/search_words.txt"
   },
-  "resolution": "1080"
+  "resolution": ["1080", "720"]
 }
